@@ -11,13 +11,10 @@
 
 ## 示例视频 / Demo Video
 
-点击下图查看示例视频：  
-Click the image below to watch the demo video:
+点击下方下载示例视频：  
+Click below to download the sample video:
 
-<video width="640" controls>
-  <source src="3D_object_detection/runs/detect/predict4/4.avi" type="video/avi">
-</video>
-
+[Download the video](runs\detect\predict4\4.avi)
 
 ## 项目简介 / Project Overview
 
