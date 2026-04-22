@@ -1,0 +1,7 @@
+# 需要把路径替换成实际上的路径
+train: H:\szu\ai_test\pythonProject\dataset\train\images
+val: H:\szu\ai_test\pythonProject\dataset\valid\images
+test: H:\szu\ai_test\pythonProject\dataset\test\images
+
+nc: 2
+names: ["person", "car"]
