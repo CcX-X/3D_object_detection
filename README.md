@@ -14,7 +14,7 @@
 点击下方下载示例视频：  
 Click below to download the sample video:
 
-[Download the video](runs\detect\predict4\4.avi)
+[![Demo Video](./demo-cover.jpg)](.runs/detect/predict4/4.avi)
 
 ## 项目简介 / Project Overview
 
