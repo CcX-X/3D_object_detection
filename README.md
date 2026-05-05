@@ -11,8 +11,7 @@
 
 ## 示例视频 / Demo Video
 
-<video src="runs/predict4/4.mp4" controls width="100%"></video>
-![demo](runs/predict4/4.png)
+![Demo Video](runs/detect/predict4/4.gif)
 
 ## 项目简介 / Project Overview
 
