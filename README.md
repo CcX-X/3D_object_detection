@@ -11,10 +11,9 @@
 
 ## 示例视频 / Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/CcX-X/Pedestrian_and_Vehicle_Detection_Project/releases/download/video/4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="runs/predict4/4.mp4" controls width="100%"></video>
+![demo](runs/predict4/4.png)
+
 ## 项目简介 / Project Overview
 
 本工程使用 YOLOv11 目标检测模型对交通场景中的行人与车辆进行识别。  
