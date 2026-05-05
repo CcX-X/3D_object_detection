@@ -12,7 +12,7 @@
 ## 示例视频 / Demo Video
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/CcX-X/Pedestrian_and_Vehicle_Detection_Project/releases/download/v1.0/4.mp4" type="video/mp4">
+  <source src="https://github.com/CcX-X/Pedestrian_and_Vehicle_Detection_Project/releases/download/video/4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## 项目简介 / Project Overview
