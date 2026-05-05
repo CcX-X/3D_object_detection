@@ -11,11 +11,10 @@
 
 ## 示例视频 / Demo Video
 
-点击下图查看示例视频：  
-Click the image below to watch the demo video:
-
-[![Demo Video](./demo-cover.jpg)](./4.mp4)
-
+<video width="640" height="360" controls>
+  <source src="./runs/detect/predict4/4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 项目简介 / Project Overview
 
